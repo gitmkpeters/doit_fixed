@@ -62,6 +62,7 @@
 		CDD6C1A81D88FF9D00344413 /* Doit */ = {
 			isa = PBXGroup;
 			children = (
+				CDD6C1BE1D8902B800344413 /* task.swift */,
 				CDD6C1A91D88FF9D00344413 /* AppDelegate.swift */,
 				CDD6C1AB1D88FF9D00344413 /* TaskViewController.swift */,
 				CDE8898F1D8A5B0F00E6258C /* CompleteTaskViewController.swift */,
@@ -71,7 +72,6 @@
 				CDD6C1B51D88FF9D00344413 /* LaunchScreen.storyboard */,
 				CDD6C1B81D88FF9D00344413 /* Info.plist */,
 				CDD6C1B01D88FF9D00344413 /* Doit.xcdatamodeld */,
-				CDD6C1BE1D8902B800344413 /* task.swift */,
 			);
 			path = Doit;
 			sourceTree = "<group>";

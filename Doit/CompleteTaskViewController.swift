@@ -19,7 +19,6 @@ class CompleteTaskViewController: UIViewController {
         super.viewDidLoad()
         print("Task name: \(task?.name)")
         
-    //let task = Task(name: taskLbl.text!, important: true)
         if let task = task{
             taskLbl.text! = task.name
         }
